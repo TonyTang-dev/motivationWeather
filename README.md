@@ -24,3 +24,5 @@
 5、项目最终解释权归作者所有
 
 6、参考书目，《第一行代码》--郭霖
+
+7、项目同步gitee:https://gitee.com/TangGarlic/motivationWeather
